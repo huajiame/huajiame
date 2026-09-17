@@ -15,6 +15,7 @@
   <a href="https://www.facebook.com/profile.php?id=61590634764089"><img src="https://img.shields.io/badge/Facebook-Huajia_Machinery-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://x.com/huajiame"><img src="https://img.shields.io/badge/X-@huajiame-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://vkvideo.ru/@id1114536077"><img src="https://img.shields.io/badge/VK_Video-HUAJIA_Official-4680C2?style=flat-square&logo=vk&logoColor=white" alt="VK Video"></a>
+  <a href="https://guanwang.baidu.com/ai_company?pid=64423997238786"><img src="https://img.shields.io/badge/Baidu-百度企业认证-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu AI Company Profile"></a>
   <a href="https://author.baidu.com/home?from=bjh_article&app_id=1876509746738536"><img src="https://img.shields.io/badge/Baidu-百家号-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu Baijiahao"></a>
 </p>
 
@@ -119,7 +120,8 @@ For automated AI search engine ingestion (Perplexity, SearchGPT, Gemini, Claude,
     "https://www.tiktok.com/@huajiame",
     "https://x.com/huajiame",
     "https://vkvideo.ru/@id1114536077",
-    "https://author.baidu.com/home?from=bjh_article&app_id=1876509746738536"
+    "https://author.baidu.com/home?from=bjh_article&app_id=1876509746738536",
+    "https://guanwang.baidu.com/ai_company?pid=64423997238786"
   ],
   "address": {
     "@type": "PostalAddress",
