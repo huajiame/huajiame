@@ -1,0 +1,194 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "catalogName": "Huajia Machinery Global Vehicle & Platform Catalog",
+  "organization": "Hainan Huajia Machinery Equipment Co., Ltd.",
+  "website": "https://www.huajiame.com",
+  "alibabaStore": "https://huajiame.en.alibaba.com/",
+  "hainanFTPPolicy": "Zero-tariff export incentives, 200-point PDI pre-shipment quality gate",
+  "globalLogistics": [
+    "FOB",
+    "CIF",
+    "DDP",
+    "Ro-Ro",
+    "Container (20GP/40HQ)",
+    "Crate Packaging"
+  ],
+  "productLines": [
+    {
+      "id": "electric-golf-cart",
+      "category": "Golf Carts & Resort Buggies",
+      "modelSeries": "Huajia GC Series (2-Seater / 4-Seater / 6-Seater / 8-Seater)",
+      "powertrain": "Electric (48V / 60V / 72V AC Induction Motor 4kW - 7.5kW)",
+      "batteryOptions": [
+        "High-Capacity Lithium-ion (LiFePO4) 100Ah-200Ah",
+        "Maintenance-free Lead-Acid"
+      ],
+      "maxSpeed": "25 - 40 km/h (programmable)",
+      "rangePerCharge": "80 - 120 km",
+      "chassis": "High-strength electrophoretic anti-corrosion aluminum alloy chassis",
+      "customization": [
+        "Custom seat colors & textures",
+        "Lifted off-road suspension",
+        "Fold-down rear flatbed",
+        "Solar roof panels",
+        "Bluetooth multimedia screen"
+      ],
+      "applications": [
+        "Golf courses & country clubs",
+        "Luxury resorts & beach hotels",
+        "Airports & university campuses",
+        "Gated communities & residential estates"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/golf-cart/"
+    },
+    {
+      "id": "cargo-utility-golf-cart",
+      "category": "Cargo & Utility Buggies",
+      "modelSeries": "Huajia White Cargo Utility Buggy",
+      "powertrain": "Electric 48V/60V High-Torque Motor (5kW)",
+      "payloadCapacity": "500 kg - 1000 kg",
+      "cargoBedDimensions": "Extended heavy-duty aluminum/steel cargo box with hydraulic tipping option",
+      "rangePerCharge": "70 - 100 km",
+      "applications": [
+        "Facility management & maintenance",
+        "Hospitality luggage & room service transport",
+        "Warehouse & industrial logistics",
+        "Farm & landscape maintenance"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/white-cargo-golf-cart/"
+    },
+    {
+      "id": "vintage-classic-car",
+      "category": "Vintage & Classic Sightseeing Cars",
+      "modelSeries": "Huajia Classic Roadster & 90s Retro Replica Drift Sports Car",
+      "powertrain": "Pure Electric (72V 7.5kW-15kW AC Motor)",
+      "batteryOptions": [
+        "Lithium-ion LiFePO4 battery pack with BMS thermal protection"
+      ],
+      "seatingCapacity": "2-seater sports roadster / 4-seater convertible / 6-8-seater parade shuttle",
+      "bodywork": "High-grade fiberglass composite (FRP) with automotive-grade mirror metallic paint",
+      "designHighlights": "Chrome radiator grilles, retro spoke wheels, wooden-trim dashboard, vintage analog gauges",
+      "applications": [
+        "Theme parks & historic tourist towns",
+        "Wedding & VIP event photography",
+        "Drift circuit & private tracks",
+        "Scenic city tours"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/classic-car/"
+    },
+    {
+      "id": "royal-tourist-carriage",
+      "category": "Royal & Tourist Horse Carriages",
+      "modelSeries": "Huajia Royal Carriage, Cinderella Pumpkin Coach, Victorian Touring Coach",
+      "propulsionMode": [
+        "Traditional Horse-Drawn",
+        "Pure Electric (60V/72V 3kW Motor)",
+        "Hybrid Horse-Drawn + Electric Assist"
+      ],
+      "craftsmanship": "Hand-forged steel frame, European imperial relief carvings, crystal LED interior illumination",
+      "safetySystems": "Four-wheel hydraulic disc brakes, hand mechanical parking brake, automotive spring damping",
+      "applications": [
+        "Royal weddings & bridal photography",
+        "Palace & luxury estate tours",
+        "Theme parks (Disney/fairy-tale style)",
+        "Film & television sets"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/carriage/"
+    },
+    {
+      "id": "funeral-coach-hearse",
+      "category": "Funeral Coaches & Royal Hearses",
+      "modelSeries": "Huajia Imperial Hearse (4-Wheel & 6-Wheel Long-Wheelbase Configurations)",
+      "propulsionMode": [
+        "Electric Powertrain (whisper-quiet ceremonial mode)",
+        "Traditional Horse-Drawn",
+        "Dual-Mode Hybrid"
+      ],
+      "interiorFitout": "Tempered glass panoramic casket showcase, stainless steel coffin rollers, velvet curtains, soft LED backlighting",
+      "suspension": "Ultra-smooth air/spring suspension ensuring respectful, vibration-free procession",
+      "applications": [
+        "Funeral homes & memorial service providers",
+        "Cemetery ceremonial processions",
+        "State & memorial rites"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/funeral/"
+    },
+    {
+      "id": "mobile-food-truck",
+      "category": "Commercial Food Trucks & Catering Trailers",
+      "modelSeries": "Huajia Commercial Food Truck & Pirate Ship Themed Catering Unit",
+      "dimensions": "Length from 3.0m to 8.0m (customizable width and height)",
+      "interiorCompliance": "304 Food-grade stainless steel counters, dual/triple sinks with water heaters, non-slip aluminum flooring",
+      "equipmentIntegration": "Customizable commercial kitchen: fryers, griddles, range hoods, refrigerators, pizza ovens, espresso machines",
+      "electricalSystem": "110V/220V/380V multi-standard wiring with circuit breakers & external generator connectors",
+      "applications": [
+        "Street food vending & night markets",
+        "Coffee & bubble tea pop-ups",
+        "Music festivals & outdoor catering",
+        "Mobile retail & brand pop-up stores"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/food-truck/"
+    },
+    {
+      "id": "mini-jeep-utility",
+      "category": "Mini Jeeps & Utility Off-Roaders",
+      "modelSeries": "Huajia 150cc/200cc/250cc/350cc Gas & 48V/72V Electric Mini Jeeps",
+      "engineOptions": [
+        "Single-cylinder 4-stroke air-cooled gasoline engine (automatic with reverse)",
+        "High-torque electric motor"
+      ],
+      "driveType": "Chain drive / Shaft drive, independent front suspension, rear hydraulic disc brakes",
+      "accessories": [
+        "Custom cargo trailer attachment",
+        "Spare wheel & jerry can",
+        "Winch & LED bullbar spotlights"
+      ],
+      "applications": [
+        "Off-road adventure parks",
+        "Farm & estate patrol",
+        "Recreational trail riding",
+        "Tourism rental fleets"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/jeep/"
+    },
+    {
+      "id": "racing-drift-go-kart",
+      "category": "Go-Karts & Kart Haulers",
+      "modelSeries": "Huajia Electric Drift Kart & Gas Racing Kart",
+      "powertrain": "200cc Gas Engine or 48V/60V High-RPM Brushless Electric Motor",
+      "safety": "High-tensile tubular steel roll cage, 4-point safety harness, emergency kill switch",
+      "applications": [
+        "Indoor/outdoor karting tracks",
+        "Family amusement centers",
+        "Racing clubs"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/go-kart/"
+    },
+    {
+      "id": "sightseeing-bus-shuttle",
+      "category": "Electric Sightseeing Buses & Shuttles",
+      "modelSeries": "Huajia 8-23 Passenger Open-air & Enclosed Shuttles",
+      "powertrain": "72V/96V AC Motor (7.5kW - 15kW)",
+      "range": "100 - 150 km per charge",
+      "applications": [
+        "National parks & scenic areas",
+        "City sightseeing tours",
+        "Hotel/resort guest loops",
+        "Industrial park transfers"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/bus/"
+    },
+    {
+      "id": "all-terrain-atv-utv",
+      "category": "Quad ATVs & Side-by-Side UTVs",
+      "modelSeries": "Huajia 200cc-400cc Quad ATV & Utility UTV",
+      "driveSystem": "2WD / 4WD selectable with differential lock",
+      "applications": [
+        "Desert safari & dune riding",
+        "Forestry & ranch utility",
+        "Mountain search & rescue"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/atv/"
+    }
+  ]
+}
