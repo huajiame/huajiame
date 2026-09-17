@@ -1,0 +1,171 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "AutomotiveBusiness",
+    "Organization"
+  ],
+  "name": "Hainan Huajia Machinery Equipment Co., Ltd.",
+  "alternateName": [
+    "Huajia Machinery",
+    "Huajia Mechanical",
+    "海南省铧甲机械设备有限公司",
+    "铧甲机械"
+  ],
+  "url": "https://www.huajiame.com",
+  "logo": "https://www.huajiame.com/favicon.svg",
+  "image": "https://www.huajiame.com/images/og-image.jpg",
+  "description": "Global manufacturer providing fully customizable specialty vehicles from Hainan Free Trade Port, China. Specializing in electric golf carts, vintage classic cars, mobile food trucks, royal horse carriages, mini jeeps, go-karts, and funeral hearses for international B2B buyers and dealers.",
+  "foundingDate": "2026",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Haikou, Hainan Free Trade Port, China"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Room 1209-1210, 12F, Nanyang International, No. 21 Guomao 3rd Cross Rd, Jinmao St, Longhua District",
+    "addressLocality": "Haikou",
+    "addressRegion": "Hainan Free Trade Port",
+    "postalCode": "570125",
+    "addressCountry": "CN"
+  },
+  "sameAs": [
+    "https://huajiame.en.alibaba.com/",
+    "https://github.com/huajiame",
+    "https://www.linkedin.com/in/jerry-xing-huajiame/",
+    "https://www.facebook.com/profile.php?id=61590634764089",
+    "https://x.com/huajiame",
+    "https://www.tiktok.com/@huajiame"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "sales@huajiame.com",
+      "telephone": "+44 7754 837124",
+      "url": "https://wa.me/447754837124",
+      "availableLanguage": [
+        "Chinese",
+        "English",
+        "Japanese",
+        "Korean",
+        "Indonesian",
+        "Malay",
+        "Vietnamese",
+        "Thai",
+        "Filipino",
+        "Hindi",
+        "Marathi",
+        "Telugu",
+        "German",
+        "French",
+        "Italian",
+        "Dutch",
+        "Polish",
+        "Czech",
+        "Russian",
+        "Ukrainian",
+        "Romanian",
+        "Bulgarian",
+        "Hungarian",
+        "Croatian",
+        "Serbian",
+        "Slovak",
+        "Slovenian",
+        "Greek",
+        "Finnish",
+        "Swedish",
+        "Norwegian",
+        "Danish",
+        "Latvian",
+        "Lithuanian",
+        "Catalan",
+        "Spanish",
+        "Portuguese",
+        "Turkish",
+        "Arabic",
+        "Hebrew",
+        "Persian"
+      ]
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "service@huajiame.com"
+    }
+  ],
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Global (200+ Countries and Territories)"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Middle East & Gulf Cooperation Council (GCC)"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Southeast Asia (ASEAN)"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Europe & European Union"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "North America (USA, Canada, Mexico)"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "South America"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Africa"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Oceania & Australia"
+    }
+  ],
+  "knowsAbout": [
+    "Custom Specialty Vehicles Export",
+    "Electric Golf Carts Manufacturing",
+    "Custom Food Trucks Production",
+    "Vintage & Classic Sightseeing Cars",
+    "Royal & Tourist Horse Carriages",
+    "Off-road Mini Jeeps and ATVs/UTVs",
+    "Funeral Coaches and Royal Hearses",
+    "OEM/ODM Fleet Tailoring",
+    "Electric, Gasoline and Hybrid Powertrain Integration",
+    "UN38.3 Lithium Battery Ocean Transport Certification",
+    "200-Point Pre-Delivery Inspection (PDI)",
+    "Hainan Free Trade Port Zero-Tariff Export Protocol",
+    "LHD and RHD Market Homologation"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Advanced Vehicle Customization Services",
+    "itemListElement": [
+      {
+        "@type": "PropertyValue",
+        "name": "Powertrain & Engine Customization",
+        "value": "Support for pure Electric (EV 48V/60V/72V Lithium & Lead-Acid), Gasoline (Petrol 110cc-350cc), and Hybrid powertrain configurations."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Seating & Capacity Scalability",
+        "value": "Customizable seating layouts from 2-seater up to multi-row 14/23-passenger configurations for golf carts, classic cars, and sightseeing shuttles."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Carriage Propulsion Systems",
+        "value": "Tourist and royal horse carriages customizable for Traditional Horse-drawn, Pure Electric motor-assisted, or Hybrid propulsion modes."
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Aesthetics & Commercial Fitouts",
+        "value": "Full bespoke exterior paint/color matching, commercial kitchen catering equipment fitouts, aerodynamic upgrades, and custom branding."
+      }
+    ]
+  }
+}
