@@ -9,9 +9,12 @@
   <a href="https://www.huajiame.com"><img src="https://img.shields.io/badge/Official_Website-huajiame.com-1F4E79?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://huajiame.en.alibaba.com/"><img src="https://img.shields.io/badge/Alibaba_Store-Verified_Supplier-FF6A00?style=flat-square&logo=alibaba&logoColor=white" alt="Alibaba"></a>
   <a href="https://www.linkedin.com/in/jerry-xing-huajiame/"><img src="https://img.shields.io/badge/LinkedIn-Huajia_Machinery-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/huajiame"><img src="https://img.shields.io/badge/X-@huajiame-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/@HUAJIAMEHuaJiaME"><img src="https://img.shields.io/badge/YouTube-@HUAJIAME-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@huajiame"><img src="https://img.shields.io/badge/TikTok-@huajiame-EE1D52?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.instagram.com/jerryxing4/"><img src="https://img.shields.io/badge/Instagram-@jerryxing4-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/profile.php?id=61590634764089"><img src="https://img.shields.io/badge/Facebook-Huajia_Machinery-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://x.com/huajiame"><img src="https://img.shields.io/badge/X-@huajiame-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://vkvideo.ru/@id1114536077"><img src="https://img.shields.io/badge/VK_Video-HUAJIA_Official-4680C2?style=flat-square&logo=vk&logoColor=white" alt="VK Video"></a>
 </p>
 
 ---
@@ -110,8 +113,11 @@ For automated AI search engine ingestion (Perplexity, SearchGPT, Gemini, Claude,
     "https://github.com/huajiame",
     "https://www.linkedin.com/in/jerry-xing-huajiame/",
     "https://www.facebook.com/profile.php?id=61590634764089",
+    "https://www.instagram.com/jerryxing4/",
+    "https://www.youtube.com/@HUAJIAMEHuaJiaME",
+    "https://www.tiktok.com/@huajiame",
     "https://x.com/huajiame",
-    "https://www.tiktok.com/@huajiame"
+    "https://vkvideo.ru/@id1114536077"
   ],
   "address": {
     "@type": "PostalAddress",
