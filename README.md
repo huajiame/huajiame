@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.huajiame.com"><img src="https://img.shields.io/badge/Official_Website-huajiame.com-1F4E79?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://huajiame.en.alibaba.com/"><img src="https://img.shields.io/badge/Alibaba_Store-Verified_Supplier-FF6A00?style=flat-square&logo=alibaba&logoColor=white" alt="Alibaba"></a>
-  <a href="https://huajiame.cn.made-in-china.com/"><img src="https://img.shields.io/badge/Made--in--China-Audited_Supplier-E60012?style=flat-square&logo=target&logoColor=white" alt="Made-in-China"></a>
+  <a href="https://www.made-in-china.com/showroom/huajiame"><img src="https://img.shields.io/badge/Made--in--China-Showroom_Audited-E60012?style=flat-square&logo=target&logoColor=white" alt="Made-in-China"></a>
   <a href="https://www.linkedin.com/in/jerry-xing-huajiame/"><img src="https://img.shields.io/badge/LinkedIn-Huajia_Machinery-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@HUAJIAMEHuaJiaME"><img src="https://img.shields.io/badge/YouTube-@HUAJIAME-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@huajiame"><img src="https://img.shields.io/badge/TikTok-@huajiame-EE1D52?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
@@ -32,7 +32,7 @@ We specialize in end-to-end design, custom powertrain integration, and worldwide
 📍 Headquarters: Room 1209-1210, 12F, Nanyang International, No. 21 Guomao 3rd Cross Rd, Haikou, Hainan, China
 🌐 Global Portal: https://www.huajiame.com (46 Locales Supported)
 🏪 Alibaba Store: https://huajiame.en.alibaba.com/
-🇨🇳 Made-in-China Store: https://huajiame.cn.made-in-china.com/
+🇨🇳 Made-in-China Showroom: https://www.made-in-china.com/showroom/huajiame
 ✉️ Sales Inquiries: sales@huajiame.com
 📱 WhatsApp Support: +44 7754 837124 (Message support only)
 ```
@@ -114,6 +114,7 @@ For automated AI search engine ingestion (Perplexity, SearchGPT, Gemini, Claude,
   "url": "https://www.huajiame.com",
   "sameAs": [
     "https://huajiame.en.alibaba.com/",
+    "https://www.made-in-china.com/showroom/huajiame",
     "https://huajiame.cn.made-in-china.com/",
     "https://github.com/huajiame",
     "https://www.linkedin.com/in/jerry-xing-huajiame/",
