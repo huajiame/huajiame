@@ -29,9 +29,10 @@
     },
     {
       "id": "red-golf-cart",
-      "category": "Passenger Golf Carts with Footrest",
-      "modelSeries": "Huajia 4-Passenger Deep Red Golf Cart with Rear Flip Seat & Footrest",
-      "powertrain": "Electric 48V/60V 5kW AC Motor",
+      "category": "All Forward-Facing Passenger & Patrol Golf Carts",
+      "modelSeries": "Huajia 4-Passenger All Forward-Facing Electric Golf Cart with Dual Side Running Boards",
+      "powertrain": "Electric 48V/60V 5kW AC Motor (Regenerative Braking)",
+      "seating": "4 All Forward-Facing Seats + Left/Right Side Step Boards",
       "landingUrl": "https://www.huajiame.com/en-US/cars/red-golf-cart/"
     },
     {
@@ -61,8 +62,8 @@
     {
       "id": "reverse-trike-roadster",
       "category": "Reverse Trike Sport Roadsters",
-      "modelSeries": "Huajia 3-Wheel Reverse Trike Roadster Racing Car",
-      "powertrain": "250cc/300cc Gas Engine or 72V 7.5kW Electric Brushless Motor",
+      "modelSeries": "Huajia 350cc 3-Wheel Reverse Trike Roadster Racing Car",
+      "powertrain": "350cc Water-Cooled 4-Stroke High-Output Gasoline Engine with Automatic CVT",
       "landingUrl": "https://www.huajiame.com/en-US/cars/reverse-trike-roadster/"
     },
     {
@@ -74,9 +75,10 @@
     },
     {
       "id": "retro-drift-sports-car",
-      "category": "Retro Replica Drift Sports Cars",
-      "modelSeries": "Huajia 90s Retro Replica Electric Drift Sports Car (Convertible / Coupe)",
-      "powertrain": "Electric 72V/96V 7.5kW-15kW High-RPM Motor with Drift Handbrake",
+      "category": "Classic 964 Retro Replica Electric Drift Sports Cars",
+      "modelSeries": "Huajia 72V 2500W Classic 964 Retro Replica Electric Drift Sports Car",
+      "powertrain": "72V 2500W Mid-Mounted Motor (Top Speed 80 km/h)",
+      "chassisSpecs": "Double Wishbone Independent Suspension, Coilover Damping, 4-Wheel Hydraulic Disc Brakes, Quick-Release Wheel, Simulated Sound, Bluetooth",
       "landingUrl": "https://www.huajiame.com/en-US/cars/retro-drift-sports-car/"
     },
     {
