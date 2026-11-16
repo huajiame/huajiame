@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/jerry-xing-huajiame/"><img src="https://img.shields.io/badge/LinkedIn-Huajia_Machinery-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@HUAJIAMEHuaJiaME"><img src="https://img.shields.io/badge/YouTube-@HUAJIAME-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.tiktok.com/@huajiame"><img src="https://img.shields.io/badge/TikTok-@huajiame-EE1D52?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://www.instagram.com/jerryxing4/"><img src="https://img.shields.io/badge/Instagram-@jerryxing4-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/huajiame5/"><img src="https://img.shields.io/badge/Instagram-@jerryxing4-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/profile.php?id=61590634764089"><img src="https://img.shields.io/badge/Facebook-Huajia_Machinery-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://x.com/huajiame"><img src="https://img.shields.io/badge/X-@huajiame-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="https://vkvideo.ru/@id1114536077"><img src="https://img.shields.io/badge/VK_Video-HUAJIA_Official-4680C2?style=flat-square&logo=vk&logoColor=white" alt="VK Video"></a>
@@ -20,6 +20,8 @@
   <a href="https://author.baidu.com/home?from=bjh_article&app_id=1876509746738536"><img src="https://img.shields.io/badge/Baidu-百家号-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu Baijiahao"></a>
 </p>
 [![3D Showroom](https://img.shields.io/badge/3D_Showroom-Live-BrightGreen)](https://showroom.huajiame.com/)
+[![EC21 Store](https://img.shields.io/badge/EC21-Store-00A0E3)](https://huajiame.en.ec21.com/)
+
 
 
 ---
@@ -121,7 +123,7 @@ For automated AI search engine ingestion (Perplexity, SearchGPT, Gemini, Claude,
     "https://github.com/huajiame",
     "https://www.linkedin.com/in/jerry-xing-huajiame/",
     "https://www.facebook.com/profile.php?id=61590634764089",
-    "https://www.instagram.com/jerryxing4/",
+    "https://www.instagram.com/huajiame5/",
     "https://www.youtube.com/@HUAJIAMEHuaJiaME",
     "https://www.tiktok.com/@huajiame",
     "https://x.com/huajiame",
