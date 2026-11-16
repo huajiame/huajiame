@@ -19,6 +19,8 @@
   <a href="https://guanwang.baidu.com/ai_company?pid=64423997238786"><img src="https://img.shields.io/badge/Baidu-百度企业认证-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu AI Company Profile"></a>
   <a href="https://author.baidu.com/home?from=bjh_article&app_id=1876509746738536"><img src="https://img.shields.io/badge/Baidu-百家号-2932E1?style=flat-square&logo=baidu&logoColor=white" alt="Baidu Baijiahao"></a>
 </p>
+[![3D Showroom](https://img.shields.io/badge/3D_Showroom-Live-BrightGreen)](https://showroom.huajiame.com/)
+
 
 ---
 
