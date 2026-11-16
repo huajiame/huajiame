@@ -14,7 +14,7 @@
     "Container (20GP/40HQ)",
     "Crate Packaging"
   ],
-  "totalProducts": 18,
+  "totalProducts": 20,
   "productLines": [
     {
       "id": "electric-golf-cart",
@@ -25,7 +25,9 @@
         "LiFePO4 Lithium 105Ah-200Ah with Smart BMS",
         "Lead-Acid"
       ],
-      "landingUrl": "https://www.huajiame.com/en-US/cars/golf-cart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/golf-cart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "red-golf-cart",
@@ -33,7 +35,9 @@
       "modelSeries": "Huajia 4-Passenger All Forward-Facing Electric Golf Cart with Dual Side Running Boards",
       "powertrain": "Electric 48V/60V 5kW AC Motor (Regenerative Braking)",
       "seating": "4 All Forward-Facing Seats + Left/Right Side Step Boards",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/red-golf-cart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/red-golf-cart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "white-cargo-golf-cart",
@@ -41,7 +45,9 @@
       "modelSeries": "Huajia White Utility Golf Cart with Fixed Rear Cargo Bed",
       "payloadCapacity": "500 kg - 800 kg",
       "powertrain": "Electric 48V/60V 5kW Motor",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/white-cargo-golf-cart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/white-cargo-golf-cart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "enclosed-cargo-golf-cart",
@@ -49,7 +55,9 @@
       "modelSeries": "Huajia Enclosed Box Cargo Utility Buggy (Double Rear Doors)",
       "payloadCapacity": "800 kg - 1,000 kg",
       "powertrain": "Electric 48V/72V 5.0kW Motor",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/enclosed-cargo-golf-cart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/enclosed-cargo-golf-cart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "medical-ambulance-golf-cart",
@@ -57,21 +65,27 @@
       "modelSeries": "Huajia Medical Ambulance Stretcher Electric Cart",
       "capacity": "Driver + Paramedic Attendant + Full Patient Stretcher Platform",
       "powertrain": "Electric 48V/60V 5kW AC Motor (Smooth Start & Damped Ride)",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/medical-ambulance-golf-cart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/medical-ambulance-golf-cart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "reverse-trike-roadster",
       "category": "Reverse Trike Sport Roadsters",
       "modelSeries": "Huajia 3-Wheel Reverse Trike Roadster Racing Car",
       "powertrain": "350cc Water-Cooled Gas Engine or 72V 6000W / 96V 12000W High-Power Electric Motors",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/reverse-trike-roadster/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/reverse-trike-roadster/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "retro-two-seater-roadster",
       "category": "Dual-Seat Vintage Classic Roadsters",
       "modelSeries": "Huajia Dual-Seat 1930s-Inspired Vintage Classic Electric Roadster",
       "powertrain": "Electric 48V/60V 3kW-4kW AC Motor",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/retro-two-seater-roadster/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/retro-two-seater-roadster/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "retro-drift-sports-car",
@@ -79,14 +93,18 @@
       "modelSeries": "Huajia 72V 2500W Classic 964 Retro Replica Electric Drift Sports Car",
       "powertrain": "72V 2500W Mid-Mounted Motor (Top Speed 80 km/h)",
       "chassisSpecs": "Double Wishbone Independent Suspension, Coilover Damping, 4-Wheel Hydraulic Disc Brakes, Quick-Release Wheel, Simulated Sound, Bluetooth",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/retro-drift-sports-car/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/retro-drift-sports-car/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "vintage-classic-car",
       "category": "Vintage & Classic Sightseeing Cars",
       "modelSeries": "Huajia Wine Red 2+1 Vintage Electric Sightseeing Car",
       "powertrain": "Pure Electric 72V (7.5-15 kW)",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/classic-car/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/classic-car/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "royal-tourist-carriage",
@@ -97,7 +115,9 @@
         "Pure Electric",
         "Hybrid"
       ],
-      "landingUrl": "https://www.huajiame.com/en-US/cars/carriage/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/carriage/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "funeral-coach-hearse",
@@ -108,50 +128,96 @@
         "Horse-Drawn",
         "Dual-Mode"
       ],
-      "landingUrl": "https://www.huajiame.com/en-US/cars/funeral/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/funeral/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "mobile-food-truck",
       "category": "Commercial Food Trucks & Catering Trailers",
       "modelSeries": "Huajia Food Truck & Pirate Ship Concession Trailers",
       "dimensions": "3.0m - 8.0m Length (304 Stainless Steel Kitchen)",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/food-truck/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/food-truck/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "mini-jeep-utility",
       "category": "Mini Jeeps & Utility Off-Roaders",
       "modelSeries": "Huajia 150cc/250cc/350cc Gas & Electric Mini Jeeps with Trailer",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/jeep/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/jeep/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "trailer-jeep",
       "category": "Mini Jeep with Cargo Box Trailer",
       "modelSeries": "Huajia 150cc/230cc Mini Jeep Utility Pickup with Detachable Trailer",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/trailer-jeep/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/trailer-jeep/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "racing-drift-go-kart",
       "category": "Go-Karts & Kart Haulers",
       "modelSeries": "Huajia Electric Drift Kart & Gas Racing Kart",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/go-kart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/go-kart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "trailer-go-kart",
       "category": "Go-Kart with Cargo Box Trailer",
       "modelSeries": "Huajia 230cc Cross Kart with Utility Cargo Hauler Trailer",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/trailer-go-kart/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/trailer-go-kart/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "sightseeing-bus-shuttle",
       "category": "Electric Sightseeing Buses & Shuttles",
       "modelSeries": "Huajia 8-23 Passenger Shuttles",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/bus/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/bus/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     },
     {
       "id": "all-terrain-atv-utv",
       "category": "Quad ATVs & Side-by-Side UTVs",
       "modelSeries": "Huajia 200cc-400cc Quad ATV & Utility UTV",
-      "landingUrl": "https://www.huajiame.com/en-US/cars/atv/"
+      "landingUrl": "https://www.huajiame.com/en-US/cars/atv/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
+    },
+    {
+      "id": "half-door-sightseeing-bus",
+      "category": "Electric Sightseeing Buses & Shuttles",
+      "modelSeries": "Huajia Half-Door Sightseeing Bus Series",
+      "powertrain": "Electric (72V AC Motor)",
+      "batteryOptions": [
+        "LiFePO4 Lithium with Smart BMS"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/half-door-sightseeing-bus/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
+    },
+    {
+      "id": "open-side-sightseeing-bus",
+      "category": "Electric Sightseeing Buses & Shuttles (Open-Side)",
+      "modelSeries": "Huajia Open-Side Sightseeing Bus Series (Blue/Angle Variants)",
+      "powertrain": "Electric (72V AC Motor)",
+      "batteryOptions": [
+        "LiFePO4 Lithium with Smart BMS"
+      ],
+      "landingUrl": "https://www.huajiame.com/en-US/cars/open-side-sightseeing-bus/",
+      "showroom3dUrl": "https://showroom.huajiame.com/",
+      "updatedAt": "2026-11-16"
     }
-  ]
+  ],
+  "lastUpdated": "2026-11-16",
+  "threeDShowroom": {
+    "url": "https://showroom.huajiame.com/",
+    "language": "en",
+    "note": "Interactive 3D showroom with vehicle configurations"
+  }
 }
