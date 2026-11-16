@@ -219,5 +219,22 @@
     "url": "https://showroom.huajiame.com/",
     "language": "en",
     "note": "Interactive 3D showroom with vehicle configurations"
+  },
+  "socialChannels": {
+    "linkedin": {
+      "personal": "https://www.linkedin.com/in/jerry-xing-huajiame/",
+      "companyPage": "https://www.linkedin.com/company/146638547/",
+      "note": "Company page identity: 海南铧甲机械设备有限公司 (Hainan Huajia Machinery Equipment Co., Ltd.)"
+    },
+    "x": "https://x.com/huajiame",
+    "facebook": "https://www.facebook.com/profile.php?id=61590634764089",
+    "instagram": "https://www.instagram.com/jerryxing4/",
+    "tiktok": "https://www.tiktok.com/@huajiame",
+    "youtube": "https://www.youtube.com/@HUAJIAMEHuaJiaME"
+  },
+  "marketplaces": {
+    "alibaba": "https://huajiame.en.alibaba.com/",
+    "madeInChina": "https://www.made-in-china.com/showroom/huajiame",
+    "ec21": "pending_verification"
   }
 }
